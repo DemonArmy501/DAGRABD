@@ -3,7 +3,7 @@
 
 
 How to use? 
-C:\Python27>python dgrab.py
+py dgrab.py
 
          Domain Grabber just with Date
          By https://github.com/DemonArmy501
