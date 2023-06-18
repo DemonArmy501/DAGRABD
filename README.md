@@ -6,7 +6,7 @@ How to use?
 py dgrab.py
 
          Domain Grabber just with Date
-         By https://github.com/DemonArmy501
+         tele:https://t.me/DemonArmy
 
 Input start date: 2023|01|01
 
