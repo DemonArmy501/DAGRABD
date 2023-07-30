@@ -74,7 +74,7 @@ def peg(fnames,p):
 					else:
 						asw = x.replace("https://www.cubdomain.com/site/","")
 						pew = asw.replace('https://www.cubdomain.com/tools/sitemap-generator" title="Sitemap Generator', '')
-						print('\033[0;37;42m [p0n] \033[0m\033[0;37;41m'+pew+'\033[0m')
+						print('\033[0;37;42m [OK] \033[0m\033[0;37;41m'+pew+'\033[0m')
 
 						save = open('hasilnya disini ajg.txt', 'a')
 						save.write(str(pew)+'\n')
