@@ -3,6 +3,9 @@
 
 
 How to use? 
+
+git clone https://github.com/DemonArmy501/DAGRABD.git
+
 py dgrab.py
 
          Domain Grabber just with Date
